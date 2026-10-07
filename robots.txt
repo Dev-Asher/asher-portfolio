@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-asher.github.io/asher-portfolio/sitemap.xml
